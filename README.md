@@ -9,9 +9,8 @@ Step 2 : Create the adapter class “ImageAdapter.java”.<br>
 Step 3 : Create the main Activity class . “MainActivity.java”<br>
 <br>
 
-____________________________________________________________________________________________________________________________________________________________Step 1: Create the Layout for the main Activity containing a gridView.
-
-
+____________________________________________________________________________________________________________________________________________________________
+Step 1: Create the Layout for the main Activity containing a gridView.
 <GridView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/gridView"
     android:layout_width="fill_parent"
