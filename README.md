@@ -1,4 +1,4 @@
-Android-GallaryViewDemo
+Android-GridViewDemo
 =======================
 This application will show how to add grid view in an application .<br>
 All you  need is additional adapter that populates the grid elements .<br>
